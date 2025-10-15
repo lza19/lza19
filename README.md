@@ -6,7 +6,3 @@
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lza19&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
