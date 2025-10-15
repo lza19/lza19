@@ -1,5 +1,5 @@
 
-![BTC](BTC.png)
+<img src="BTC.png" alt="BTC" width="200" height="200">
 
 <h3 align="center" >Skills</h3>
 <p align="center">
