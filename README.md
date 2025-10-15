@@ -1,5 +1,5 @@
 
-<img src="BTC.png" alt="BTC" width="200" height="200">
+<img  align="center" src="BTC.png" alt="BTC" width="100" height="100">
 
 <h3 align="center" >Skills</h3>
 <p align="center">
