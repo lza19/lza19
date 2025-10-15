@@ -1,7 +1,7 @@
 
-<center>
+<div style="text-align: center;">
     <img src="BTC.png" alt="BTC" width="100" height="100">
-</center>
+</div>
 <h3 align="center" >Skills</h3>
 <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="20" height="20" /></a>
