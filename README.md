@@ -3,7 +3,6 @@
 
 
 
-
 <h2 align="center" >Skills</h2>
 <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="30" height="30" /></a>
