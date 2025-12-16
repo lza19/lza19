@@ -1,4 +1,4 @@
-<p align="center">
+''<p align="center">
 </p>
 
 
@@ -10,4 +10,4 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="30" height="30" /></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="30" height="30" /></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="30" height="30" /></a>
-</p>
+</p>''
